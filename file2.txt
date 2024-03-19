@@ -1,3 +1,3 @@
-Pasus1
-Pasus2
-Pasus3
+pasus1
+pasus2
+pasus3
